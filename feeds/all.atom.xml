@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ken Mathenge's Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2013-09-01T19:19:00+03:00</updated><entry><title>Welcome All</title><link href="/welcome-all.html" rel="alternate"></link><updated>2013-09-01T19:19:00+03:00</updated><author><name>Keneth Mathenge</name></author><id>tag:,2013-09-01:welcome-all.html</id><summary type="html">&lt;p&gt;This is the content of my blog post. &lt;/p&gt;
+&lt;p&gt;This is a python code block&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nb"&gt;exit&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;A few titles &lt;/p&gt;
+&lt;h1&gt;Title 1&lt;/h1&gt;
+&lt;h2&gt;Title 2&lt;/h2&gt;
+&lt;h3&gt;Title 3&lt;/h3&gt;
+&lt;h4&gt;Title 4&lt;/h4&gt;
+&lt;hr /&gt;
+&lt;p&gt;and now for some lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blue&lt;/li&gt;
+&lt;li&gt;green&lt;/li&gt;
+&lt;li&gt;yellow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;li&gt;three&lt;/li&gt;
+&lt;li&gt;two&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;p&gt;some links too
+[google][3]
+&lt;a href="" title="http://www.google.com/&amp;quot;, &amp;quot;http://www.google.com"&gt;3&lt;/a&gt;&lt;/p&gt;</summary><category term="new"></category><category term="beginnings"></category></entry></feed>

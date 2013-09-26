@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ken Mathenge's Blog</title><link href="http://kmathenge.github.io/" rel="alternate"></link><link href="http://kmathenge.github.io/feeds/all.atom.xml" rel="self"></link><id>http://kmathenge.github.io/</id><updated>2013-09-23T00:00:00+03:00</updated><entry><title>Disqus test</title><link href="http://kmathenge.github.io/disqus-test.html" rel="alternate"></link><updated>2013-09-23T00:00:00+03:00</updated><author><name>Keneth Mathenge</name></author><id>tag:kmathenge.github.io,2013-09-23:disqus-test.html</id><summary type="html">&lt;h2&gt;Testing disqus&lt;/h2&gt;
-&lt;p&gt;trying out whether disqus comments work&lt;/p&gt;</summary><category term="test"></category></entry><entry><title>Welcome All</title><link href="http://kmathenge.github.io/welcome-all.html" rel="alternate"></link><updated>2013-09-01T19:19:00+03:00</updated><author><name>Keneth Mathenge</name></author><id>tag:kmathenge.github.io,2013-09-01:welcome-all.html</id><summary type="html">&lt;p&gt;This is the content of my blog post. &lt;/p&gt;
-&lt;p&gt;This is a python code block&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ken Mathenge's Blog</title><link href="http://kmathenge.github.io/" rel="alternate"></link><link href="http://kmathenge.github.io/feeds/all.atom.xml" rel="self"></link><id>http://kmathenge.github.io/</id><updated>2013-09-23T00:00:00+03:00</updated><entry><title>Disqus test</title><link href="http://kmathenge.github.io/disqus-test.html" rel="alternate"></link><updated>2013-09-23T00:00:00+03:00</updated><author><name>Keneth Mathenge</name></author><id>tag:kmathenge.github.io,2013-09-23:disqus-test.html</id><summary type="html">&lt;h2&gt;Testing&amp;nbsp;disqus&lt;/h2&gt;
+&lt;p&gt;trying out whether disqus comments&amp;nbsp;work&lt;/p&gt;</summary><category term="test"></category></entry><entry><title>Welcome All</title><link href="http://kmathenge.github.io/welcome-all.html" rel="alternate"></link><updated>2013-09-01T19:19:00+03:00</updated><author><name>Keneth Mathenge</name></author><id>tag:kmathenge.github.io,2013-09-01:welcome-all.html</id><summary type="html">&lt;p&gt;This is the content of my blog&amp;nbsp;post. &lt;/p&gt;
+&lt;p&gt;This is a python code&amp;nbsp;block&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nb"&gt;exit&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;hr /&gt;
-&lt;p&gt;A few titles &lt;/p&gt;
-&lt;h1&gt;Title 1&lt;/h1&gt;
-&lt;h2&gt;Title 2&lt;/h2&gt;
-&lt;h3&gt;Title 3&lt;/h3&gt;
-&lt;h4&gt;Title 4&lt;/h4&gt;
+&lt;p&gt;A few&amp;nbsp;titles &lt;/p&gt;
+&lt;h1&gt;Title&amp;nbsp;1&lt;/h1&gt;
+&lt;h2&gt;Title&amp;nbsp;2&lt;/h2&gt;
+&lt;h3&gt;Title&amp;nbsp;3&lt;/h3&gt;
+&lt;h4&gt;Title&amp;nbsp;4&lt;/h4&gt;
 &lt;hr /&gt;
-&lt;p&gt;and now for some lists&lt;/p&gt;
+&lt;p&gt;and now for some&amp;nbsp;lists&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;blue&lt;/li&gt;
 &lt;li&gt;green&lt;/li&gt;
